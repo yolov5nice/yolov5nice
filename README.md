@@ -1,6 +1,7 @@
-
-
-  👋 Hi! I'm STACIA~ (✿ ◕ᗜ◕)━♫.*･｡ﾟ \
+<p float="left">
+<img src='new_pic.jpeg' width='250' align="left">
+<p float="left">
+  👋 Hi! I'm STACIA~  \
   ❤ Nice to meet you
 
   🌱 I’m currently learning: Python, Discord bot, Mobile App \
